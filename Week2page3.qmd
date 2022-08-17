@@ -1,0 +1,14 @@
+---
+title: "Week2page3"
+author: "Maeve"
+format: html
+editor: visual
+---
+
+# After class
+
+Consider the following:
+
+To return to the [pre-class tasks](Week2page1)
+
+To access the [class materials](Week2page2)
